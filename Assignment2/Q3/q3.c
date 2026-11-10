@@ -1,3 +1,8 @@
+/**
+ * Programmer: Mohib Haider 
+ * Program: Greenhouse Sensor
+ * Date: 2nd Nov 2026
+ */
 #include <stdio.h>
 #define MAXC 50
 void inputReadings(float temp[][MAXC], int sensors, int hours){
