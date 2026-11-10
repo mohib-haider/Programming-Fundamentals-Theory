@@ -1,3 +1,8 @@
+/**
+ * Programmer: Mohib Haider 
+ * Program: Amicable Pairs
+ * Date: 2nd Nov 2026
+ */
 #include <stdio.h>
 int sumDivisors(int x){
     int i, sum = 0;
