@@ -1,3 +1,8 @@
+/**
+ * Programmer: Mohib Haider 
+ * Program:  Bakery Festival Sales
+ * Date: 2nd Nov 2026
+ */
 #include <stdio.h>
 int getValidDays(){
     int d;
