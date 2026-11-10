@@ -1,3 +1,8 @@
+/**
+ * Programmer: Mohib Haider 
+ * Program: Library Management System
+ * Date: 2nd Nov 2026
+ */
 #include <stdio.h>
 #include <string.h>
 void displayMenu(){
