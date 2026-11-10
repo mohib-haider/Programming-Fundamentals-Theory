@@ -1,3 +1,8 @@
+/**
+ * Programmer: Mohib Haider 
+ * Program: Cinema Seat Booking
+ * Date: 2nd Nov 2026
+ */
 #include <stdio.h>
 int main(){
     int seats[50][50];
